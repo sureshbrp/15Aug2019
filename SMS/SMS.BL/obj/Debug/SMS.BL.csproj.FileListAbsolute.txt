@@ -1,0 +1,15 @@
+C:\Users\Suresh\Source\Repos\15082019\SMS\SMS.BL\bin\Debug\SMS.BL.dll.config
+C:\Users\Suresh\Source\Repos\15082019\SMS\SMS.BL\bin\Debug\SMS.BL.dll
+C:\Users\Suresh\Source\Repos\15082019\SMS\SMS.BL\bin\Debug\SMS.BL.pdb
+C:\Users\Suresh\Source\Repos\15082019\SMS\SMS.BL\bin\Debug\EntityFramework.dll
+C:\Users\Suresh\Source\Repos\15082019\SMS\SMS.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Suresh\Source\Repos\15082019\SMS\SMS.BL\bin\Debug\SMS.DAL.dll
+C:\Users\Suresh\Source\Repos\15082019\SMS\SMS.BL\bin\Debug\SMS.DAL.pdb
+C:\Users\Suresh\Source\Repos\15082019\SMS\SMS.BL\bin\Debug\SMS.DAL.dll.config
+C:\Users\Suresh\Source\Repos\15082019\SMS\SMS.BL\bin\Debug\EntityFramework.xml
+C:\Users\Suresh\Source\Repos\15082019\SMS\SMS.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Suresh\Source\Repos\15082019\SMS\SMS.BL\obj\Debug\SMS.BL.csprojAssemblyReference.cache
+C:\Users\Suresh\Source\Repos\15082019\SMS\SMS.BL\obj\Debug\SMS.BL.csproj.CoreCompileInputs.cache
+C:\Users\Suresh\Source\Repos\15082019\SMS\SMS.BL\obj\Debug\SMS.BL.csproj.CopyComplete
+C:\Users\Suresh\Source\Repos\15082019\SMS\SMS.BL\obj\Debug\SMS.BL.dll
+C:\Users\Suresh\Source\Repos\15082019\SMS\SMS.BL\obj\Debug\SMS.BL.pdb

@@ -1,0 +1,109 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Suresh\\Source\\Repos\\15082019\\SMS\\SMS\\SMS.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Suresh\\Source\\Repos\\15082019\\SMS\\SMS.BL\\SMS.BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Suresh\\Source\\Repos\\15082019\\SMS\\SMS.BL\\SMS.BL.csproj",
+        "projectName": "SMS.BL",
+        "projectPath": "C:\\Users\\Suresh\\Source\\Repos\\15082019\\SMS\\SMS.BL\\SMS.BL.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Suresh\\Source\\Repos\\15082019\\SMS\\SMS.DAL\\SMS.DAL.csproj": {
+                "projectPath": "C:\\Users\\Suresh\\Source\\Repos\\15082019\\SMS\\SMS.DAL\\SMS.DAL.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Suresh\\Source\\Repos\\15082019\\SMS\\SMS.DAL\\SMS.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Suresh\\Source\\Repos\\15082019\\SMS\\SMS.DAL\\SMS.DAL.csproj",
+        "projectName": "SMS.DAL",
+        "projectPath": "C:\\Users\\Suresh\\Source\\Repos\\15082019\\SMS\\SMS.DAL\\SMS.DAL.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Suresh\\Source\\Repos\\15082019\\SMS\\SMS\\SMS.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Suresh\\Source\\Repos\\15082019\\SMS\\SMS\\SMS.API.csproj",
+        "projectName": "SMS.API",
+        "projectPath": "C:\\Users\\Suresh\\Source\\Repos\\15082019\\SMS\\SMS\\SMS.API.csproj",
+        "packagesPath": "C:\\Users\\Suresh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Suresh\\Source\\Repos\\15082019\\SMS\\SMS\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Suresh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Suresh\\Source\\Repos\\15082019\\SMS\\SMS.BL\\SMS.BL.csproj": {
+                "projectPath": "C:\\Users\\Suresh\\Source\\Repos\\15082019\\SMS\\SMS.BL\\SMS.BL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.9, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

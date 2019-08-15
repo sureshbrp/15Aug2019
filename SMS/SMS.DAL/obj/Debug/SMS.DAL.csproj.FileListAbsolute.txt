@@ -1,0 +1,11 @@
+C:\Users\Suresh\Source\Repos\15082019\SMS\SMS.DAL\bin\Debug\SMS.DAL.dll.config
+C:\Users\Suresh\Source\Repos\15082019\SMS\SMS.DAL\bin\Debug\SMS.DAL.dll
+C:\Users\Suresh\Source\Repos\15082019\SMS\SMS.DAL\bin\Debug\SMS.DAL.pdb
+C:\Users\Suresh\Source\Repos\15082019\SMS\SMS.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Suresh\Source\Repos\15082019\SMS\SMS.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Suresh\Source\Repos\15082019\SMS\SMS.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Suresh\Source\Repos\15082019\SMS\SMS.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Suresh\Source\Repos\15082019\SMS\SMS.DAL\obj\Debug\SMS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Suresh\Source\Repos\15082019\SMS\SMS.DAL\obj\Debug\SMS.DAL.csproj.CopyComplete
+C:\Users\Suresh\Source\Repos\15082019\SMS\SMS.DAL\obj\Debug\SMS.DAL.dll
+C:\Users\Suresh\Source\Repos\15082019\SMS\SMS.DAL\obj\Debug\SMS.DAL.pdb
